@@ -9,7 +9,7 @@
 <body>
     <center><div>
         <h1>Bow Down!!</h1>
-        Hello World!
+        <h2>Hello World!</h2>
     </div></center>
 </body>
 </html>
